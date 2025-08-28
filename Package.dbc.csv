@@ -1,2 +1,2 @@
-flags,bool,flags,None,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,
-0x2,1,0xA,,,,,,,,,"Тестовый пакет",,,,,,,,0xFF01FE,
+flags,bool,flags,str,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,
+0x2,1,0xA,"Тестовий пакет",,,,,,,,"Тестовий пакет",,,,,,,,0xFF01FE,

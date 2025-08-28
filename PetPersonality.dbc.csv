@@ -1,3 +1,3 @@
-long,None,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,None,flags,long,float,float,float,
-1,,,,,,,,,"Характер: обычный",,,,,,,,0xFF01FE,,0x514C8,666000,0.75,1.0,1.25,
-3,,,,,,,,,"zzOLDххСтарыйМерзавец",,,,,,,,0xFF01FE,,0x3D090,750000,0.0,1.0,1.25,
+long,str,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,None,flags,long,float,float,float,
+1,"Характер: звичайний",,,,,,,,"Характер: звичайний",,,,,,,,0xFF01FE,,0x514C8,666000,0.75,1.0,1.25,
+3,zzOLDОбурення,,,,,,,,"zzOLDОбурення",,,,,,,,0xFF01FE,,0x3D090,750000,0.0,1.0,1.25,
