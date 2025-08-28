@@ -1,0 +1,5 @@
+flags,long,None,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,
+0x2,173555,,,,,,,,,"Оружие ближнего боя",,,,,,,,0xFF01FE,
+0x4,96,,,,,,,,,"Щит",,,,,,,,0xFF01FE,
+0x2,262156,,,,,,,,,"Оружие дальнего боя",,,,,,,,0xFF01FE,
+0x2,41105,,,,,,,,,"Одноручное оружие ближнего боя",,,,,,,,0xFF01FE,
