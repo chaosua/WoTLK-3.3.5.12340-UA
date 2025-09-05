@@ -3,22 +3,22 @@ long,str,long,long,bool,str,None,None,None,None,None,None,None,str,None,None,Non
 1,"Kalimdor",0,0,0,"Kalimdor",,,,,,,,"Калімдор",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,3,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 13,"test",0,2,0,"Testing",,,,,,,,"Тестування",,,,,,,,0xFF01FE,3817,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 25,"ScottTest",0,2,0,"Scott Test",,,,,,,,"Тест Скотта",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
-30,"PVPZone01",3,0,1,"Alterac Valley",,,,,,,,"Альтеракська Долина",,,,,,,,0xFF01FE,0,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
-
-The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
-
-The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
-
-Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
-
-Не желая терпеть чужаков, орки собрали армию... армию, готовую до жестокой і праведной битве.",,,,,,,,0xFF01FE,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
-
-The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
-
-The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
-
-Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
-
+30,"PVPZone01",3,0,1,"Alterac Valley",,,,,,,,"Альтеракська Долина",,,,,,,,0xFF01FE,0,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
+
+The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
+
+The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
+
+Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
+
+Не желая терпеть чужаков, орки собрали армию... армию, готовую до жестокой і праведной битве.",,,,,,,,0xFF01FE,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
+
+The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
+
+The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
+
+Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
+
 Не желая терпеть чужаков, орки собрали армию... армию, готовую до жестокой і праведной битве.",,,,,,,,0xFF01FE,104,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 33,"Shadowfang",1,0,0,"Shadowfang Keep",,,,,,,,"Фортеця Тіньового Ікла",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,204,1.0,0,-230.989364624,1571.5703125,-1,0x0,0x0,0xA,
 34,"StormwindJail",1,0,0,"Stormwind Stockade",,,,,,,,"В'язниця Штормграду",,,,,,,,0xFF01FE,717,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,194,1.0,0,-8762.37890625,848.010314941,-1,0x0,0x0,0xA,
@@ -53,36 +53,36 @@ The territorial Frostwolves, unwilling to suffer the dwarven incursion, have ral
 450,"HordePVPBarracks",0,1,0,"Horde PVP Barracks",,,,,,,,"Казарми Орди",,,,,,,,0xFF01FE,2917,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,182,1.0,0,0.0,0.0,-1,0x0,0x0,0x0,
 451,"development",0,15,0,"Development Land",,,,,,,,"Зона разработчика",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,21,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
 469,"BlackwingLair",2,1,0,"Blackwing Lair",,,,,,,,"Лігво Крила Темряви",,,,,,,,0xFF01FE,2677,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,141,1.0,0,-7663.41259766,-1218.66650391,-1,0x0,0x0,0x28,
-489,"PVPZone03",3,1,1,"Warsong Gulch",,,,,,,,"Ущелина Пісні Війни",,,,,,,,0xFF01FE,3277,"A valley bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and the Alliance.
-
-Orcs use their Warsong Mill to cut lumber reaped from Ashenvale, provoking the night elves of Silverwing Hold.
-
-Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.",,,,,,,,"В Ущелина Пісні Війни, разделяющем Степи і Ашенваль, не прекращается війна між Ордою і Альянсом.
-
-Причиною конфлікту стала лісопилка, збудована орками з клану Пісні Війни, щоб різати дерева, добуті в Ясеневому лісі, що викликало невдоволення у нічних ельфів з застави Срібнокрилих.
-
-Зараз в Ущелина стекаются представники всіх рас Азероту, желающие підтримати союзників мечом або магією.",,,,,,,,0xFF01FE,"A valley bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and the Alliance.
-
-Orcs use their Warsong Mill to cut lumber reaped from Ashenvale, provoking the night elves of Silverwing Hold.
-
-Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.",,,,,,,,"В Ущелина Пісні Війни, разделяющем Степи і Ашенваль, не прекращается війна між Ордою і Альянсом.
-
-Причиною конфлікту стала лісопилка, збудована орками з клану Пісні Війни, щоб різати дерева, добуті в Ясеневому лісі, що викликало невдоволення у нічних ельфів з застави Срібнокрилих.
-
+489,"PVPZone03",3,1,1,"Warsong Gulch",,,,,,,,"Ущелина Пісні Війни",,,,,,,,0xFF01FE,3277,"A valley bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and the Alliance.
+
+Orcs use their Warsong Mill to cut lumber reaped from Ashenvale, provoking the night elves of Silverwing Hold.
+
+Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.",,,,,,,,"В Ущелина Пісні Війни, разделяющем Степи і Ашенваль, не прекращается війна між Ордою і Альянсом.
+
+Причиною конфлікту стала лісопилка, збудована орками з клану Пісні Війни, щоб різати дерева, добуті в Ясеневому лісі, що викликало невдоволення у нічних ельфів з застави Срібнокрилих.
+
+Зараз в Ущелина стекаются представники всіх рас Азероту, желающие підтримати союзників мечом або магією.",,,,,,,,0xFF01FE,"A valley bordering Ashenvale Forest and the Barrens, Warsong Gulch hosts a constant battle between the Horde and the Alliance.
+
+Orcs use their Warsong Mill to cut lumber reaped from Ashenvale, provoking the night elves of Silverwing Hold.
+
+Eager to aid their allies, members of every race in Azeroth rush to the Gulch to lend sword, or spell, to the conflict.",,,,,,,,"В Ущелина Пісні Війни, разделяющем Степи і Ашенваль, не прекращается війна між Ордою і Альянсом.
+
+Причиною конфлікту стала лісопилка, збудована орками з клану Пісні Війни, щоб різати дерева, добуті в Ясеневому лісі, що викликало невдоволення у нічних ельфів з застави Срібнокрилих.
+
 Зараз в Ущелина стекаются представники всіх рас Азероту, желающие підтримати союзників мечом або магією.",,,,,,,,0xFF01FE,122,1.0,0,0.0,0.0,-1,0x0,0x0,0x0,
 509,"AhnQiraj",2,1,0,"Ruins of Ahn'Qiraj",,,,,,,,"Руїни Ан'Кіражу",,,,,,,,0xFF01FE,3429,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,184,1.0,1,-8114.46435547,1526.36572266,-1,0x0,0x10B30,0x14,
-529,"PVPZone04",3,1,1,"Arathi Basin",,,,,,,,"Низовина Араті",,,,,,,,0xFF01FE,3358,"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
-
-The Defiler's elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.
-
-Meanwhile, the League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.",,,,,,,,"Низовина Араті стала местом крупнейшего столкновения між людьми і Відреченими.
-
-Элитные отряды Осквернителів прагнуть отрезать людей від їх южных союзників – дворфів, але Лига Аратора твердо намерена повернути ці землі своїм покровителям з Штормграду.",,,,,,,,0xFF01FE,"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
-
-The League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.
-
-Meanwhile, the Defiler's elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.",,,,,,,,"Низовина Араті стала местом крупнейшего столкновения між людьми і Відреченими.
-
+529,"PVPZone04",3,1,1,"Arathi Basin",,,,,,,,"Низовина Араті",,,,,,,,0xFF01FE,3358,"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
+
+The Defiler's elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.
+
+Meanwhile, the League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.",,,,,,,,"Низовина Араті стала местом крупнейшего столкновения між людьми і Відреченими.
+
+Элитные отряды Осквернителів прагнуть отрезать людей від їх южных союзників – дворфів, але Лига Аратора твердо намерена повернути ці землі своїм покровителям з Штормграду.",,,,,,,,0xFF01FE,"The Arathi Basin is one of the main staging points of war between the humans and the Forsaken in Azeroth.
+
+The League of Arathor seek to reclaim lost lands for their benefactors in Stormwind.
+
+Meanwhile, the Defiler's elite troopers seek to sever the vital connection between the humans and their dwarven allies to the south.",,,,,,,,"Низовина Араті стала местом крупнейшего столкновения між людьми і Відреченими.
+
 Лига Аратора твердо намерена повернути ці землі своїм покровителям з Штормграду, а элитные отряды Осквернителів прагнуть отрезать людей від їх южных союзників – дворфів.",,,,,,,,0xFF01FE,183,1.25,0,0.0,0.0,-1,0x0,0x0,0x0,
 530,"Expansion01",0,1,0,"Outland",,,,,,,,"Позамежжя",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,198,1.0,0,0.0,0.0,-1,0x1,0x0,0x0,
 531,"AhnQirajTemple",2,0,0,"Ahn'Qiraj Temple",,,,,,,,"Храм Ан'Кіражу",,,,,,,,0xFF01FE,3428,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,185,1.0,1,-8111.72412109,1526.7857666,-1,0x0,0x0,0x28,
@@ -95,7 +95,7 @@ Meanwhile, the Defiler's elite troopers seek to sever the vital connection betwe
 544,"HellfireRaid",2,1,0,"Magtheridon's Lair",,,,,,,,"Лігво Магтеридона",,,,,,,,0xFF01FE,3836,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,208,1.0,530,-330.233856201,3106.63598633,-1,0x1,0x0,0x19,
 545,"CoilfangPumping",1,1,0,"Coilfang: The Steamvault",,,,,,,,"Криве Ікло: Парове Сховище",,,,,,,,0xFF01FE,3715,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,207,1.0,530,764.219055176,6915.07958984,-1,0x1,0x0,0x5,
 546,"CoilfangMarsh",1,1,0,"Coilfang: The Underbog",,,,,,,,"Криве Ікло: Підземне болото",,,,,,,,0xFF01FE,3716,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,207,1.0,530,764.628234863,6768.07275391,-1,0x1,0x0,0x5,
-547,"CoilfangDraenei",1,1,0,"Coilfang: The Slave Pens",,,,,,,,"Криве Ікло: Рабські Загони",,,,,,,,0xFF01FE,3717,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,207,1.0,530,742.158203125,7011.32666016,-1,0x1,0x0,0x5,
+547,"CoilfangDraenei",1,1,0,"Coilfang: The Slave Pens",,,,,,,,"Криве Ікло: Загони Рабів",,,,,,,,0xFF01FE,3717,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,207,1.0,530,742.158203125,7011.32666016,-1,0x1,0x0,0x5,
 548,"CoilfangRaid",2,1,0,"Coilfang: Serpentshrine Cavern",,,,,,,,"Криве Ікло: Зміїне Святилище",,,,,,,,0xFF01FE,3607,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,207,1.0,530,775.786376953,6865.24267578,-1,0x1,0x0,0x19,
 550,"TempestKeepRaid",2,1,0,"Tempest Keep",,,,,,,,"Фортеця Бурі",,,,,,,,0xFF01FE,3845,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,206,1.0,0,0.0,0.0,-1,0x1,0x0,0x19,
 552,"TempestKeepArcane",1,1,0,"Tempest Keep: The Arcatraz",,,,,,,,"Фортеця Бурі: Аркатрац",,,,,,,,0xFF01FE,3848,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,206,1.0,0,0.0,0.0,-1,0x1,0x0,0x5,
@@ -110,18 +110,18 @@ Meanwhile, the Defiler's elite troopers seek to sever the vital connection betwe
 562,"bladesedgearena",4,1,0,"Blade's Edge Arena",,,,,,,,"Арена Лезокраю",,,,,,,,0xFF01FE,3702,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,218,1.0,0,0.0,0.0,-1,0x0,0x0,0x0,
 564,"BlackTemple",2,1,0,"Black Temple",,,,,,,,"Чорний Храм",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,215,1.0,530,-3644.52734375,317.293670654,-1,0x1,0x0,0x19,
 565,"GruulsLair",2,1,0,"Gruul's Lair",,,,,,,,"Лігво Груула",,,,,,,,0xFF01FE,3923,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,213,1.0,530,3525.45288086,5144.15087891,-1,0x1,0x0,0x19,
-566,"NetherstormBG",3,1,1,"Eye of the Storm",,,,,,,,"Око Бурі",,,,,,,,0xFF01FE,0,"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
-
-This battlefield is coveted by the blood elves for its rich energy deposits.
-
-The draenei seek to claim it due to its proximity to the naaru's mysterious vessel, Tempest Keep.",,,,,,,,"Високо над спустошеними просторами Пустоверті знаходитися острів Око Бурі, за який воюють ельфи крові і дренеї.
-
-Перших туда ваблять багаті запаси енергії, а других – близькість Фортеці Бурь, таємничого корабля наару.",,,,,,,,0xFF01FE,"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
-
-The draenei seek to claim it due to its proximity to the naaru's mysterious vessel, Tempest Keep.
-
-This battlefield is coveted by the blood elves for its rich energy deposits.",,,,,,,,"Високо над спустошеними просторами Пустоверті знаходитися острів Око Бурі, за який воюють дренеї і ельфи крові.
-
+566,"NetherstormBG",3,1,1,"Eye of the Storm",,,,,,,,"Око Бурі",,,,,,,,0xFF01FE,0,"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
+
+This battlefield is coveted by the blood elves for its rich energy deposits.
+
+The draenei seek to claim it due to its proximity to the naaru's mysterious vessel, Tempest Keep.",,,,,,,,"Високо над спустошеними просторами Пустоверті знаходитися острів Око Бурі, за який воюють ельфи крові і дренеї.
+
+Перших туда ваблять багаті запаси енергії, а других – близькість Фортеці Бурь, таємничого корабля наару.",,,,,,,,0xFF01FE,"Hovering high above the ravaged landscape of Netherstorm is the island known as the Eye of the Storm.
+
+The draenei seek to claim it due to its proximity to the naaru's mysterious vessel, Tempest Keep.
+
+This battlefield is coveted by the blood elves for its rich energy deposits.",,,,,,,,"Високо над спустошеними просторами Пустоверті знаходитися острів Око Бурі, за який воюють дренеї і ельфи крові.
+
 Перших туда вабить близькість Фортеці Бурь, таємничого корабля наару, а других – багаті запаси енергії.",,,,,,,,0xFF01FE,210,1.0,0,0.0,0.0,-1,0x1,0x0,0x0,
 568,"ZulAman",2,1,0,"Zul'Aman",,,,,,,,"Зул'Аман",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,214,1.0,530,6851.02099609,-7989.71337891,-1,0x1,0x0,0xA,
 571,"Northrend",0,29,0,"Northrend",,,,,,,,"Нортренд",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,216,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
@@ -156,14 +156,14 @@ This battlefield is coveted by the blood elves for its rich energy deposits.",,,
 604,"GunDrak",1,13,0,"Gundrak",,,,,,,,"Гундрак",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,237,1.0,571,6708.73095703,-4654.90380859,-1,0x2,0x0,0x5,
 605,"development_nonweighted",0,17,0,"Development Land (non-weighted textures)",,,,,,,,"Development Land (non-weighted textures)",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,21,1.0,0,0.0,0.0,-1,0x0,0x0,0x0,
 606,"QA_DVD",0,31,0,"QA and DVD",,,,,,,,"QA and DVD",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,21,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
-607,"NorthrendBG",3,29,1,"Strand of the Ancients",,,,,,,,"Берег Древніх",,,,,,,,0xFF01FE,0,"To the south of Dragonblight lies the resting place of a legendary Titan artifact, known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
-
-Prepare yourself for battle, for fate cannot determine success upon this Strand of the Ancients.",,,,,,,,"До югу від Драконьего Погоста лежат землі, в яких хранится древняя реликвия титанів. І Орде, і Альянсу известно, що вона способна приоткрыть завесу тайны над историей цих древніх творцов.
-
-Приготовьтесь до битве – доля Берегу Древніх тепер залежить і від вас.",,,,,,,,0xFF01FE,"To the south of Dragonblight lies the resting place of a legendary Titan artifact, known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
-
-Prepare yourself for battle, for fate cannot determine success upon this Strand of the Ancients.",,,,,,,,"До югу від Драконьего Погоста лежат землі, в яких хранится древняя реликвия титанів. І Орде, і Альянсу известно, що вона способна приоткрыть завесу тайны над историей цих древніх творцов.
-
+607,"NorthrendBG",3,29,1,"Strand of the Ancients",,,,,,,,"Берег Древніх",,,,,,,,0xFF01FE,0,"To the south of Dragonblight lies the resting place of a legendary Titan artifact, known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
+
+Prepare yourself for battle, for fate cannot determine success upon this Strand of the Ancients.",,,,,,,,"До югу від Драконьего Погоста лежат землі, в яких хранится древняя реликвия титанів. І Орде, і Альянсу известно, що вона способна приоткрыть завесу тайны над историей цих древніх творцов.
+
+Приготовьтесь до битве – доля Берегу Древніх тепер залежить і від вас.",,,,,,,,0xFF01FE,"To the south of Dragonblight lies the resting place of a legendary Titan artifact, known by the Alliance and Horde to possess critical information regarding the Titans and their methods.
+
+Prepare yourself for battle, for fate cannot determine success upon this Strand of the Ancients.",,,,,,,,"До югу від Драконьего Погоста лежат землі, в яких хранится древняя реликвия титанів. І Орде, і Альянсу известно, що вона способна приоткрыть завесу тайны над историей цих древніх творцов.
+
 Приготовьтесь до битве – доля Берегу Древніх тепер залежить і від вас.",,,,,,,,0xFF01FE,238,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
 608,"DalaranPrison",1,29,0,"Violet Hold",,,,,,,,"Аметистова Фортеця",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,235,1.0,571,5689.48974609,498.046936035,-1,0x2,0x0,0x5,
 609,"DeathKnightStart",0,29,0,"Ebon Hold",,,,,,,,"Чорний оплот",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,233,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
@@ -181,22 +181,22 @@ Prepare yourself for battle, for fate cannot determine success upon this Strand 
 622,"Transport192241",0,1,0,"Transport: Orgrim's Hammer",,,,,,,,"Транспорт: Молот Оргріма",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
 623,"Transport192242",0,1,0,"Transport: The Skybreaker",,,,,,,,"Транспорт: Приборкувач небес",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
 624,"WintergraspRaid",2,61,0,"Vault of Archavon",,,,,,,,"Сховище Аркавона",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,243,1.0,571,5488.12451172,2840.33374023,-1,0x2,0x0,0x0,
-628,"IsleofConquest",3,29,1,"Isle of Conquest",,,,,,,,"Острів Завоювань",,,,,,,,0xFF01FE,0,"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend.
-
-Serving as an ideal staging ground for operations in Icecrown, each side is determined to secure control of the island.
-
-With the 7th Legion and the Kor'kron Guard locked in deadly combat, both factions have issued a call to arms in hopes of tipping the scales in their favor and defeating the opposing general.",,,,,,,,"Острів Завоювань – стратегічно важлива територія, захопити яку прагнуть експедиції Орди та Альянсу.
-
-Кожній із сторін Острів міг би послугувати відмінною відправною точкою для проведення операцій в Крижаній Короні.
-
-Сьомий легіон Альянсу і Кор'крон Орди залучені в кровопролитні бої в надії схилити шальки терезів в свою сторону і перемогти генерала противника.",,,,,,,,0xFF01FE,"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend.
-
-Serving as an ideal staging ground for operations in Icecrown, each side is determined to secure control of the island.
-
-With the 7th Legion and the Kor'kron Guard locked in deadly combat, both factions have issued a call to arms in hopes of tipping the scales in their favor and defeating the opposing general.",,,,,,,,"Острів Завоювань – стратегічно важлива територія, захопити яку прагнуть експедиції Орди та Альянсу.
-
-Кожній із сторін Острів міг би послугувати відмінною відправною точкою для проведення операцій в Крижаній Короні.
-
+628,"IsleofConquest",3,29,1,"Isle of Conquest",,,,,,,,"Острів Завоювань",,,,,,,,0xFF01FE,0,"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend.
+
+Serving as an ideal staging ground for operations in Icecrown, each side is determined to secure control of the island.
+
+With the 7th Legion and the Kor'kron Guard locked in deadly combat, both factions have issued a call to arms in hopes of tipping the scales in their favor and defeating the opposing general.",,,,,,,,"Острів Завоювань – стратегічно важлива територія, захопити яку прагнуть експедиції Орди та Альянсу.
+
+Кожній із сторін Острів міг би послугувати відмінною відправною точкою для проведення операцій в Крижаній Короні.
+
+Сьомий легіон Альянсу і Кор'крон Орди залучені в кровопролитні бої в надії схилити шальки терезів в свою сторону і перемогти генерала противника.",,,,,,,,0xFF01FE,"The Isle of Conquest is a point of strategic importance for the Alliance and Horde campaigns in Northrend.
+
+Serving as an ideal staging ground for operations in Icecrown, each side is determined to secure control of the island.
+
+With the 7th Legion and the Kor'kron Guard locked in deadly combat, both factions have issued a call to arms in hopes of tipping the scales in their favor and defeating the opposing general.",,,,,,,,"Острів Завоювань – стратегічно важлива територія, захопити яку прагнуть експедиції Орди та Альянсу.
+
+Кожній із сторін Острів міг би послугувати відмінною відправною точкою для проведення операцій в Крижаній Короні.
+
 Сьомий легіон Альянсу і Кор'крон Орди залучені в кровопролитні бої в надії схилити шальки терезів в свою сторону і перемогти генерала противника.",,,,,,,,0xFF01FE,245,1.0,0,0.0,0.0,-1,0x2,0x0,0x0,
 631,"IcecrownCitadel",2,285,0,"Icecrown Citadel",,,,,,,,"Цитадель Крижаної Корони",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,250,1.0,571,5776.921875,2065.93237305,-1,0x2,0x0,0x0,
 632,"IcecrownCitadel5Man",1,29,0,"The Forge of Souls",,,,,,,,"Кузня Душ",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,249,1.0,571,5670.79150391,2003.62854004,-1,0x2,0x0,0x0,
