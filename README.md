@@ -46,3 +46,4 @@ SpellMechanic.dbc.csv- en/ru
 SpellShapeshiftForm.dbc - en/ru
 TalentTab.dbc.csv - en/ru
 WowError_Strings.dbc.csv - en/ru
+
