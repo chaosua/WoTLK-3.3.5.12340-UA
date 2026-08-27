@@ -1,5 +1,5 @@
-# WoW-WoTLK-3.3.5.12340-UA-localization
-Українська локалізація клієнтської частини
+# WoW WoTLK 3.3.5.12340 UA localization
+Українська локалізація клієнтської частини WoW WoTLK
 Патч заміни для ruRU версії, частково enUS/enGB
 
 Бажаючі можуть долучитися до перекладу пуллреквестами:
@@ -46,4 +46,3 @@ SpellMechanic.dbc.csv- en/ru
 SpellShapeshiftForm.dbc - en/ru
 TalentTab.dbc.csv - en/ru
 WowError_Strings.dbc.csv - en/ru
-

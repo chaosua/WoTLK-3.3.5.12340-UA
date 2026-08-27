@@ -1,5 +1,5 @@
 long,long,long,long,long,long,long,flags,flags,long,bool,str,None,None,None,None,None,None,None,str,None,None,None,None,None,None,None,flags,long,long,long,flags,
-1,30,-1,-1,-1,-1,-1,0xFFFFFFFF,0xFFFFFFFF,3,1,"Альтеракська Долина",,,,,,,,"Альтеракська Долина",,,,,,,,0xFF01FE,5,1941,51,0x50,
+1,30,-1,-1,-1,-1,-1,0xFFFFFFFF,0xFFFFFFFF,3,1,"Долина Альтерак",,,,,,,,"Долина Альтерак",,,,,,,,0xFF01FE,5,1941,51,0x50,
 2,489,-1,-1,-1,-1,-1,0xFFFFFFFF,0xFFFFFFFF,3,1,"Ущелина Пісні Війни",,,,,,,,"Ущелина Пісні Війни",,,,,,,,0xFF01FE,10,1942,10,0x50,
 3,529,-1,-1,-1,-1,-1,0xFFFFFFFF,0xFFFFFFFF,3,1,"Низовина Араті",,,,,,,,"Низовина Араті",,,,,,,,0xFF01FE,15,1943,20,0x50,
 4,559,-1,-1,-1,-1,-1,0xFFFFFFFF,0xFFFFFFFF,4,1,"Арена Награнду",,,,,,,,"Арена Награнду",,,,,,,,0xFF01FE,5,0,10,0x50,

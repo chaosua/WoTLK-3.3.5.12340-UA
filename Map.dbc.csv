@@ -3,23 +3,23 @@ long,str,long,long,bool,str,None,None,None,None,None,None,None,str,None,None,Non
 1,"Kalimdor",0,0,0,"Kalimdor",,,,,,,,"Калімдор",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,3,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 13,"test",0,2,0,"Testing",,,,,,,,"Тестування",,,,,,,,0xFF01FE,3817,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 25,"ScottTest",0,2,0,"Scott Test",,,,,,,,"Тест Скотта",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,0,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
-30,"PVPZone01",3,0,1,"Alterac Valley",,,,,,,,"Альтеракська Долина",,,,,,,,0xFF01FE,0,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
+30,"PVPZone01",3,0,1,"Alterac Valley",,,,,,,,"Долина Альтерак",,,,,,,,0xFF01FE,0,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
 
 The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
-The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
+The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Долина Альтерак, загублена серед одноіменних гір, слугує домівкою для клану орків Морозного Вовка, до якого належить сам Тралл.
 
 Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
 
-Не желая терпеть чужаков, орки собрали армию... армию, готовую до жестокой і праведной битве.",,,,,,,,0xFF01FE,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
+Не бажаючи терпіти чужинців, орки зібрали армію... армію, спраглу праведної різанини.",,,,,,,,0xFF01FE,"Hidden within the Alterac Mountains, Alterac Valley is the home of Thrall's own clan of orcs, the Frostwolves.
 
 The Stormpike dwarves have established a foothold in the valley and seek to plumb its depths for riches and links to their ancestral past.
 
-The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Альтеракська Долина, затерянная серед одноименных гір, служит домом орочьему клану Морозного Вовка, до якого належить сам Тралл.
+The territorial Frostwolves, unwilling to suffer the dwarven incursion, have rallied an army... an army eager for righteous slaughter.",,,,,,,,"Долина Альтерак, загублена серед одноіменних гір, слугує домівкою для клану орків Морозного Вовка, до якого належить сам Тралл.
 
 Дворфы Грозової Вершини вторглись в цю долину в пошуках підземних скарбів і знань про своє минуле.
 
-Не желая терпеть чужаков, орки собрали армию... армию, готовую до жестокой і праведной битве.",,,,,,,,0xFF01FE,104,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
+Не бажаючи терпіти чужинців, орки зібрали армію... армію, спраглу праведної різанини.",,,,,,,,0xFF01FE,104,1.0,-1,0.0,0.0,-1,0x0,0x0,0x0,
 33,"Shadowfang",1,0,0,"Shadowfang Keep",,,,,,,,"Фортеця Тіньового Ікла",,,,,,,,0xFF01FE,0,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,204,1.0,0,-230.989364624,1571.5703125,-1,0x0,0x0,0xA,
 34,"StormwindJail",1,0,0,"Stormwind Stockade",,,,,,,,"В'язниця Штормграду",,,,,,,,0xFF01FE,717,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,194,1.0,0,-8762.37890625,848.010314941,-1,0x0,0x0,0xA,
 35,"StormwindPrison",0,0,0,"<unused>StormwindPrison",,,,,,,,"(UNUSED) В'язниця Штормграду",,,,,,,,0xFF01FE,717,"",,,,,,,,"",,,,,,,,0xFF01FC,"",,,,,,,,"",,,,,,,,0xFF01FC,23,1.0,0,-8762.4765625,848.049133301,-1,0x0,0x0,0x0,
